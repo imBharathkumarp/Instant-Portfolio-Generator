@@ -2,8 +2,7 @@
 
 Create a professional, exportable portfolio instantly using a sleek React + TailwindCSS interface. Perfect for developers, students, and freelancers who want to showcase their projects with style.
 
-![Vite + React](https://img.shields.io/badge/Vite-React-blue?logo=vite) ![TailwindCSS](https://img.shields.io/badge/Styled-TailwindCSS-38bdf8?logo=tailwindcss) ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
+![Vite + React](https://img.shields.io/badge/Vite-React-blue?logo=vite) ![TailwindCSS](https://img.shields.io/badge/Styled-TailwindCSS-38bdf8?logo=tailwindcss)
 ---
 
 ## 🚀 Features
