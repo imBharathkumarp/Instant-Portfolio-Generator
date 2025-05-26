@@ -18,3 +18,4 @@ Create a professional, exportable portfolio instantly using a sleek React + Tail
 Try it locally:  
 ```bash
 npm run dev
+
